@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>car0401.jpg</filename>
+	<path>/home/cheng/git/auto_label\images\car0401.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1081</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>230</ymin>
+			<xmax>164</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+</annotation>
